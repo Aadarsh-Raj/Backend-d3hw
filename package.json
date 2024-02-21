@@ -1,0 +1,11 @@
+{
+  "name": "array-utills",
+  "version": "1.0.0",
+  "description": "This package contains methods to work on array types of datas",
+  "main": "array-utills.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aadarsh Raj",
+  "license": "ISC"
+}
